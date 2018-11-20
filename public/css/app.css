@@ -10471,11 +10471,8 @@ a.text-dark:focus {
   }
 }
 
-body {
-  font-size: 20px;
-}
-
-.container p {
-  font-size: 40px;
+.bg-jumbotron {
+  background-image: url(../images/wallhaven-680785.jpg?54155811c5391241836c5e1c66e414c0);
+  background-size: 100%;
 }
 
