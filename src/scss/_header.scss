@@ -1,6 +1,30 @@
 .bg-jumbotron {
 
-	background-image: url(../img/wallhaven-680785.jpg);
-	background-size:100% 100%;
+	background-image: url(../img/2.jpg);
+    background-size: 100%;
+    background-position-y: -45px;
+    background-repeat: no-repeat;
 
+}
+
+header {
+	color:#FFF;
+	text-align:center;
+
+	p{
+		width:60%;
+		margin: 0 auto;
+	}
+	
+	a {
+
+		background-color: #FFF;
+	    margin: 23px 0;
+	    box-sizing: border-box;
+	    padding: 20px;
+	    border-radius: 5px;
+	    display: inline-block;
+
+
+	}
 }

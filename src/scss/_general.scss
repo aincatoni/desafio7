@@ -1,6 +1,7 @@
 body {
 	
-
+	margin: 0;
+	padding: 0;
 }
 
 .container {
@@ -8,5 +9,29 @@ body {
 
 	p {
 
+	}
+}
+
+
+.curvo {
+
+	border: 10px solid #ddd;
+    border-radius: 7px;
+    padding: 0;
+    margin-bottom: 10px;
+
+}
+
+.texto-centrado {
+
+	text-align:center;
+	padding:15px;
+	margin: 0 auto;
+	color: #777;
+	font-size: 0.8rem;
+
+	h2 {
+
+    font-size: 1.4rem;
 	}
 }

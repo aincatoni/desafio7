@@ -10471,8 +10471,54 @@ a.text-dark:focus {
   }
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.curvo {
+  border: 10px solid #ddd;
+  border-radius: 7px;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.texto-centrado {
+  text-align: center;
+  padding: 15px;
+  margin: 0 auto;
+  color: #777;
+  font-size: 0.8rem;
+}
+
+.texto-centrado h2 {
+  font-size: 1.4rem;
+}
+
 .bg-jumbotron {
-  background-image: url(../images/wallhaven-680785.jpg?54155811c5391241836c5e1c66e414c0);
-  background-size: 100% 100%;
+  background-image: url(../images/2.jpg?6683a2020a26d1642e2dd81c174e2f2c);
+  background-size: 100%;
+  background-position-y: -45px;
+  background-repeat: no-repeat;
+}
+
+header {
+  color: #FFF;
+  text-align: center;
+}
+
+header p {
+  width: 60%;
+  margin: 0 auto;
+}
+
+header a {
+  background-color: #FFF;
+  margin: 23px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
 }
 
