@@ -10487,18 +10487,22 @@ body {
   text-align: center;
   padding: 15px;
   margin: 0 auto;
-  color: #777;
   font-size: 0.8rem;
 }
 
 .texto-centrado h2 {
   font-size: 1.4rem;
+  color: #777;
+}
+
+.texto-centrado p {
+  color: #777;
 }
 
 .bg-jumbotron {
   background-image: url(../images/2.jpg?6683a2020a26d1642e2dd81c174e2f2c);
-  background-size: 100%;
-  background-position-y: -45px;
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
